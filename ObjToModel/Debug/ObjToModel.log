@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\maksim\documents\visual studio 2015\projects\objtomodel\objtomodel\source.cpp(32): warning C4244: 'argument': conversion from 'std::streamoff' to 'unsigned int', possible loss of data
+  ObjToModel.vcxproj -> c:\users\maksim\documents\visual studio 2015\Projects\ObjToModel\Debug\ObjToModel.exe
+  ObjToModel.vcxproj -> c:\users\maksim\documents\visual studio 2015\Projects\ObjToModel\Debug\ObjToModel.pdb (Full PDB)
